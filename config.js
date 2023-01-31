@@ -116,16 +116,16 @@ global.ultahowner = 'April 5 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6ab4daac226292a112540.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/46f7f2f630816d05d21df.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.giflogo2 = 'https://telegra.ph/file/46f7f2f630816d05d21df.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Nakano Nino Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Okta* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya Lynn-Md, Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Lynn-Offc* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
+global.intro = 'https://telegra.ph/file/46f7f2f630816d05d21df.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Own-Lynn'
 global.umurowner = '16'
